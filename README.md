@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/87812099/152738068-4f041e61-2a72-4633-8338-a2ece6d8f31d.jpeg" width="200" height="400"/>
 
 # 사용한 주요 레이아웃
-recyclerview, tablayout, sticky scroll, view pager, custom navigation,keyboard scroll 
+recyclerview, tablayout, sticky scroll, view pager, custom navigation, keyboard scroll 
 
 # 프로그램에 사용한 기술
 Kotlin, Coroutine, Android, MVVM, Jetpack(AAC, ViewModle, LiveData) 
